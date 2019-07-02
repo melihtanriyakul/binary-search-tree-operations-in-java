@@ -1,0 +1,4 @@
+CreateBST 8,3,6
+Preorder
+DelRoot
+Preorder

@@ -1,0 +1,17 @@
+CreateBST 72,27,24,50,20,26,46,68,30,48
+FindHeight
+FindWidth
+Preorder
+LeavesAsc
+DelRootLc
+LeavesAsc
+Preorder
+CreateBSTH 4
+Preorder
+CreateBST 40,50,45,68,66,80,64,52
+Preorder
+LeavesAsc
+DelRootRc
+Preorder
+DelRootLc
+CreateBSTH -1

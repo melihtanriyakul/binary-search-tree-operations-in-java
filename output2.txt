@@ -1,0 +1,8 @@
+BST created with elements:3 6 8 
+Preorder:8 3 6 
+Root Deleted:8
+Preorder:3 6 
+BST created with elements:3 6 8
+Preorder:8 3 6
+Root Deleted:8
+Preorder:3 6
